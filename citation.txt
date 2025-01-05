@@ -1,0 +1,6 @@
+@article{REPO277,
+    author = "Yuan, Ruibin and Ma, Yinghao and Li, Yizhi and Zhang, Ge and Chen, Xingran and Yin, Hanzhi and Zhuo, Le and Liu, Yiqi and Huang, Jiawen and Tian, Zeyue and others",
+    journal = "arXiv preprint arXiv:2306.10548",
+    title = "{MARBLE: Music Audio Representation Benchmark for Universal Evaluation}",
+    year = "2023"
+}
